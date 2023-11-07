@@ -15,21 +15,21 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "Project2_ee80ef26"
+            "projectName": "Project2_ee80ef27"
         },
         {
             "type": "java",
             "name": "GoFundMeClient",
             "request": "launch",
             "mainClass": "GoFundMeClient",
-            "projectName": "Project2_ee80ef26"
+            "projectName": "Project2_ee80ef27"
         },
         {
             "type": "java",
             "name": "GoFundMeServer",
             "request": "launch",
             "mainClass": "GoFundMeServer",
-            "projectName": "Project2_ee80ef26"
+            "projectName": "Project2_ee80ef27"
         }
     ]
 }
